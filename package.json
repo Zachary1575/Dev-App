@@ -1,0 +1,26 @@
+{
+  "name": "dev-app",
+  "version": "1.0.0",
+  "description": "Development App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zachary1575/Dev-App.git"
+  },
+  "keywords": [
+    "React",
+    "React",
+    "Native",
+    "Expo",
+    "CLI"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zachary1575/Dev-App/issues"
+  },
+  "homepage": "https://github.com/Zachary1575/Dev-App#readme"
+}
