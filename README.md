@@ -1,6 +1,6 @@
 # Dev-App
 Check Wiki for Road Map!
-# Tutorial on how to test:
+# Tutorial on How to Run Development Tests:
 **Tools needed:** 
 <br>
 A computer (duh)
