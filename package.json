@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/Zachary1575/Dev-App/issues"
   },
-  "homepage": "https://github.com/Zachary1575/Dev-App#readme"
+  "homepage": "https://github.com/Zachary1575/Dev-App#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "react-native-fontawesome": "^7.0.0",
+    "react-native-svg": "^12.3.0"
+  }
 }
